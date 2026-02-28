@@ -1,0 +1,33 @@
+# Google Cloud Generative AI Project
+
+## Abstract
+This project demonstrates the integration of Google Cloud Vertex AI with a Node.js backend to generate AI-powered text responses.
+
+## Objectives
+- To understand Generative AI
+- To integrate Google Cloud Vertex AI
+- To build REST APIs
+- To deploy a cloud-based AI application
+
+## Technologies Used
+- Google Cloud Platform
+- Vertex AI (Gemini Model)
+- Node.js
+- Express.js
+- HTML, CSS, JavaScript
+
+## Architecture
+User → Frontend → Backend API → Vertex AI → Response → Frontend
+
+## Features
+- Dynamic AI Text Generation
+- Secure API Integration
+- Cloud-based Deployment Ready
+
+## Future Enhancements
+- Chatbot Interface
+- Authentication System
+- Deployment on Cloud Run
+
+## Author
+G K Swetha
